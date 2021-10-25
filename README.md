@@ -1,7 +1,5 @@
 ## Hi, I'm Chris 👋
 
-Will code for food.
-
 ### About me:
 
 - 📍 Houston, TX
@@ -20,7 +18,6 @@ Will code for food.
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 |
 | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | 
 | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 |
-
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |🟦🟦🟦🟦🟦🟦🟦🟦⬜️⬜️ |
 | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | 🟦🟦🟦🟦🟦🟦🟦🟦⬜️⬜️ |
 | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) | 🟦🟦🟦🟦🟦🟦🟦🟦⬜️⬜️ |
@@ -54,6 +51,11 @@ Will code for food.
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+
+## 🙋‍♂️ Hire Me
+
+📬 chris (dot) engelsma (at) gmail (dot) com
 
 
 * _Proficiency_ is just my own self-evaluation taking into account the length of time using that tech, the complexity of projects I've worked on with it and my confidence level.
