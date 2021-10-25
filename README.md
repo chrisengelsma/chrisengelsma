@@ -13,7 +13,7 @@
 
 #### 💻 Languages
 
-| Language | Proficiency* |
+| Language | Proficiency¹ |
 |----------|--------------|
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 |
 | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | 
@@ -28,7 +28,7 @@
 
 #### 🏗 Frameworks, Platforms and Libraries
 
-| Framework | Proficiency* |
+| Framework | Proficiency¹ |
 |-----------|--------------|
 | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 |
 | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 |
@@ -58,7 +58,7 @@
 📬 chris (dot) engelsma (at) gmail (dot) com
 
 
-* _Proficiency_ is just my own self-evaluation taking into account the length of time using that tech, the complexity of projects I've worked on with it and my confidence level.
+¹ _Proficiency_ is just my own self-evaluation taking into account the length of time using that tech, the complexity of projects I've worked on with it and my confidence level.
 
 
 <!--
