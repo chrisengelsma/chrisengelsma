@@ -6,6 +6,7 @@
 - 📚 Education:
    - 🧾 BS. Geophysical Engineering, Colorado School of Mines, 2009
    - 🧾 MS. Geophysics, Colorado School of Mines, 2010
+      - Thesis: Interpretation of 3D seismic images using an interactive image-guided paintbrush
 - 👤 Pronouns: He/Him
 
 ## 👨‍💻 Tech Rundown
