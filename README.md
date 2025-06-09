@@ -34,7 +34,7 @@
 | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 |
 | ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 |
 | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 |
-| ![Rails](https://img.shields.io/badge/rails-E40046?style=for-the-badge&logo=rails&logoColor=white) | 🟦🟦🟦🟦🟦🟦⬜️⬜️⬜️⬜️ |
+| ![Rails](https://img.shields.io/badge/rails-E40046?style=for-the-badge&logo=rails&logoColor=white) | 🟦🟦🟦🟦🟦🟦🟦🟦⬜️⬜️ |
 | ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) | 🟦🟦🟦🟦🟦🟦🟦🟦⬜️⬜️ |
 | ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) | 🟦🟦🟦🟦🟦🟦🟦🟦⬜️⬜️ |
 | ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) | 🟦🟦🟦🟦🟦🟦⬜️⬜️⬜️⬜️ |
